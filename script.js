@@ -6,7 +6,7 @@ let projectsData = {
     },
     {
       projectName: 'notes website',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Notes-Maker/'
     },
     {
       projectName: 'animated landing page',
@@ -14,39 +14,39 @@ let projectsData = {
     },
     {
       projectName: 'countdown',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Countdown/'
     },
     {
       projectName: 'calculator',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Calculator/'
     },
     {
       projectName: 'dictionary',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Dictionary-App/'
     },
     {
       projectName: 'random joke generator',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Random-Joke-Generator/'
     },
     {
       projectName: 'image search api',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Image-Search-APP/'
     },
     {
       projectName: 'guess the number game',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Guess-the-number-game/'
     },
     {
       projectName: 'tic tac toe',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Tic-tac-toe/'
     },
     {
       projectName: 'to do list',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/To-Do-List/'
     },
     {
       projectName: 'weather api',
-      link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
+      link: 'https://adarsh-developer.github.io/Weather-App/'
     },
     {
       projectName: 'search filter',
