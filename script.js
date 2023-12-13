@@ -48,6 +48,10 @@ let projectsData = {
       projectName: 'weather api',
       link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
     },
+    {
+      projectName: 'search filter',
+      link: 'https://adarsh-developer.github.io/Search-Filter/'
+    },
   ]
 }
 
