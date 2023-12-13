@@ -9,6 +9,10 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
     },
     {
+      projectName: 'animated landing page',
+      link: 'https://adarsh-developer.github.io/Animated-Landing_Page/'
+    },
+    {
       projectName: 'countdown',
       link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
     },
