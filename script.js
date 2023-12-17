@@ -52,6 +52,10 @@ let projectsData = {
       projectName: 'search filter',
       link: 'https://adarsh-developer.github.io/Search-Filter/'
     },
+    {
+      projectName: 'ecommerce website',
+      link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
+    },
   ]
 }
 
