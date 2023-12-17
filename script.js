@@ -9,6 +9,14 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Notes-Maker/'
     },
     {
+      projectName: 'ecommerce website',
+      link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
+    },
+    {
+      projectName: 'netflix clone',
+      link: 'https://adarsh-developer.github.io/Netflix-Clone/'
+    },
+    {
       projectName: 'animated landing page',
       link: 'https://adarsh-developer.github.io/Animated-Landing_Page/'
     },
@@ -51,10 +59,6 @@ let projectsData = {
     {
       projectName: 'search filter',
       link: 'https://adarsh-developer.github.io/Search-Filter/'
-    },
-    {
-      projectName: 'ecommerce website',
-      link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
   ]
 }
