@@ -60,6 +60,10 @@ let projectsData = {
       projectName: 'search filter',
       link: 'https://adarsh-developer.github.io/Search-Filter/'
     },
+    {
+      projectName: 'rock paper scissor',
+      link: 'https://adarsh-developer.github.io/Rock-Paper-Scissor/'
+    },
   ]
 }
 
