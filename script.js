@@ -21,8 +21,8 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Animated-Landing_Page/'
     },
     {
-      projectName: 'countdown',
-      link: 'https://adarsh-developer.github.io/Countdown/'
+      projectName: 'form validation',
+      link: 'https://adarsh-developer.github.io/Form-validation/'
     },
     {
       projectName: 'calculator',
