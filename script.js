@@ -13,6 +13,10 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
     {
+      projectName: 'spotify clone',
+      link: 'https://adarsh-developer.github.io/Spotify-Clone/'
+    },
+    {
       projectName: 'netflix clone',
       link: 'https://adarsh-developer.github.io/Netflix-Clone/'
     },
