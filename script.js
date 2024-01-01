@@ -13,6 +13,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
     {
+      projectName: 'Nike-Website',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Nike-Website/'
+    },
+    {
       projectName: 'spotify clone',
       link: 'https://adarsh-developer.github.io/Spotify-Clone/'
     },
@@ -82,6 +87,13 @@ for (let i of projectsData.data) {
   projectLink.innerHTML = i.projectName;
   project.appendChild(projectLink);
   projectContainer.appendChild(project);
+
+  if(i.projectMadeBy){
+    let tool = document.createElement('p')
+    tool.classList.add('madeby')
+    tool.innerHTML = i.projectMadeBy
+    project.appendChild(tool);
+  }
 }
 
 
