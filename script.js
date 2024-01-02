@@ -9,6 +9,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Notes-Maker/'
     },
     {
+      projectName: 'Dice Game',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Dice-Game/'
+    },
+    {
       projectName: 'ecommerce website',
       link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
