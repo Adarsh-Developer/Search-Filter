@@ -18,6 +18,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
     {
+      projectName: 'movie search app',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Movie-Search-App/'
+    },
+    {
       projectName: 'Nike-Website',
       projectMadeBy: 'made-with - React',
       link: 'https://adarsh-developer.github.io/Nike-Website/'
