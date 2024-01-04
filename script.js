@@ -5,6 +5,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/adarsh-portfolio/'
     },
     {
+      projectName: 'modern bank website',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Modern-Bank-App/'
+    },
+    {
       projectName: 'notes website',
       link: 'https://adarsh-developer.github.io/Notes-Maker/'
     },
