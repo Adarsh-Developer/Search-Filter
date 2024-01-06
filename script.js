@@ -28,6 +28,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Movie-Search-App/'
     },
     {
+      projectName: 'donkey type',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Donkey-Type/'
+    },
+    {
       projectName: 'Nike-Website',
       projectMadeBy: 'made-with - React',
       link: 'https://adarsh-developer.github.io/Nike-Website/'
