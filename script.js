@@ -10,6 +10,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Modern-Bank-App/'
     },
     {
+      projectName: 'donkey type',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Donkey-Type/'
+    },
+    {
       projectName: 'notes website',
       link: 'https://adarsh-developer.github.io/Notes-Maker/'
     },
@@ -19,6 +24,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Dice-Game/'
     },
     {
+      projectName: 'Draggable-Cards',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Draggable-Cards/'
+    },
+    {
       projectName: 'ecommerce website',
       link: 'https://adarsh-developer.github.io/Ecommerce-Website/'
     },
@@ -26,11 +36,6 @@ let projectsData = {
       projectName: 'movie search app',
       projectMadeBy: 'made-with - React',
       link: 'https://adarsh-developer.github.io/Movie-Search-App/'
-    },
-    {
-      projectName: 'donkey type',
-      projectMadeBy: 'made-with - React',
-      link: 'https://adarsh-developer.github.io/Donkey-Type/'
     },
     {
       projectName: 'Nike-Website',
