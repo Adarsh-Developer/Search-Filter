@@ -47,6 +47,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Spotify-Clone/'
     },
     {
+      projectName: 'To-Do-App',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/To-Do-App/'
+    },
+    {
       projectName: 'netflix clone',
       link: 'https://adarsh-developer.github.io/Netflix-Clone/'
     },
