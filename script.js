@@ -38,6 +38,11 @@ let projectsData = {
       link: 'https://adarsh-developer.github.io/Movie-Search-App/'
     },
     {
+      projectName: 'Tic Tac Toe',
+      projectMadeBy: 'made-with - React',
+      link: 'https://adarsh-developer.github.io/Tic-Tac-Toe-React/'
+    },
+    {
       projectName: 'Nike-Website',
       projectMadeBy: 'made-with - React',
       link: 'https://adarsh-developer.github.io/Nike-Website/'
