@@ -15,6 +15,16 @@ let projectsData = {
       link: "https://adarsh-developer.github.io/Donkey-Type/",
     },
     {
+      projectName: "hevy fitness website",
+      projectMadeBy: "made-with - React",
+      link: "https://adarsh-developer.github.io/Hevy-Fitness/",
+    },
+    {
+      projectName: "TaskMaster",
+      projectMadeBy: "made-with - React",
+      link: "https://adarsh-developer.github.io/To-Do-Redux/",
+    },
+    {
       projectName: "notes website",
       link: "https://adarsh-developer.github.io/Notes-Maker/",
     },
